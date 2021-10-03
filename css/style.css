@@ -1,0 +1,156 @@
+body{
+    background:rgb(228, 226, 226);
+    
+}
+.container{
+    display:grid;
+}
+.main{
+    
+    display:flex;
+}
+h1{
+    width: 250px;
+    margin-left: 50px;
+}
+nav{
+    width: 170px;
+}
+nav ul{
+    list-style-type:none;
+    width: 160px;
+    padding: 10px;
+
+
+}
+nav ul li{
+    padding: 20px;
+    width: 150px;
+}
+.bt1{
+    width:100px;
+    height: 25px;
+    border-radius: 5rem;
+    border:white;
+    border: thin;
+    background: white;
+
+}
+.bt2{
+    margin-top: 25px;
+    margin-left: 55px;
+    width: 100px ;
+    height: 35px;
+    border-radius: 5rem;
+    background: red;
+    border: thin;
+
+}
+.container2{
+    
+    margin-left: 20px;
+
+}
+h1{
+    font-size: 50px;
+}
+main h1{
+    width: 700px;
+    margin-top: 100px;
+}
+.all4{
+    display: flex;
+}
+.pro1{
+    border: thin;
+    border: 3px solid rgb(252, 250, 250);
+    width: 200px;
+    padding: 5px 10px 10px 20px;
+    height: 250px;
+    background:white;
+    margin-left: 15px;
+    border-radius: 3rem;
+    
+}
+.pro1 img{
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 10rem;
+}
+.pro2{
+    border: thin;
+    border: 3px solid rgb(253, 252, 252);
+    width: 200px;
+    padding: 5px 10px 10px 20px;
+    height: 250px;
+    background:white;
+    margin-left: 15px;
+    border-radius: 3rem;
+    
+}
+.pro2 img{
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 10rem;
+}
+.pro3{
+    border: thin;
+    border: 3px solid rgb(252, 250, 250);
+    width: 200px;
+    padding: 5px 10px 10px 20px;
+    height: 250px;
+    background:white;
+    margin-left: 15px;
+    border-radius: 3rem;
+    
+}
+.pro3 img{
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 10rem;
+}
+.pro4{
+    border: thin ;
+    border: 3px solid rgb(253, 252, 252);
+    width: 200px;
+    padding: 5px 10px 10px 20px;
+    height: 250px;
+    background:white;
+    margin-left: 15px;
+    border-radius: 3rem;
+    
+}
+.pro4 img{
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 10rem;
+}
+.btn3{
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 5rem;
+    border: thin;
+    background: white;
+}
+button:hover{
+    background:rgb(152, 240, 125);
+}
+.txt{
+    display: grid;
+    justify-content: end;
+}
+
+p{
+    margin-left: 10px;
+}
+ hr{
+    color: red;
+    width: 200px;
+   margin-left: 0;
+}
+
+    /* media query using for responsive  */
+
+
